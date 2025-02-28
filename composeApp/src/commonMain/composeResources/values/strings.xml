@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ikasi</string>
+
+    <string name="home">Home</string>
+    <string name="today">Today</string>
+    <string name="vocabulary">Vocabulary</string>
+
+    <string name="speaking">Speaking</string>
+    <string name="listening">Listening</string>
+    <string name="reading">Reading</string>
+    <string name="writing">Writing</string>
+
+    <string name="understanding">Understanding</string>
+    <string name="fluency">Fluency</string>
+    <string name="confidence">Confidence</string>
+
+    <string name="activities">Activities</string>
+
+    <string name="home_recent_activity">Recent Activity</string>
+    <string name="home_activity">Activity</string>
+    <string name="home_add">Add</string>
+    <string name="last_week">Last Week</string>
+    <string name="one_month">1 Month</string>
+    <string name="three_months">3 Months</string>
+    <string name="home_writing_vocabulary">with 3 random words from vocabulary to use.</string>
+    <string name="home_flashcards">Flashcards</string>
+    <string name="home_flashcards_description">Review vocabulary and learn while you play.</string>
+    <string name="home_no_words_enough">No words enough</string>
+
+    <string name="vocabulary_search_add">Search / Add vocabulary</string>
+    <string name="vocabulary_word">Word</string>
+    <string name="vocabulary_meaning">Meaning</string>
+    <string name="vocabulary_notes_optional">Notes (optional)</string>
+    <string name="vocabulary_add">Add Vocabulary</string>
+    <string name="vocabulary_entries">%1$d entries</string>
+
+    <string name="flashcards_start">Start</string>
+    <string name="flashcards_add_vocabulary">Add Vocabulary</string>
+    <string name="flashcards_show_meaning">Show meaning</string>
+    <string name="flashcards_correct">Correct</string>
+    <string name="flashcards_incorrect">Incorrect</string>
+    <string name="flashcards_no_flashcards">No Flashcards</string>
+</resources>
