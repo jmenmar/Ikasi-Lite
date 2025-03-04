@@ -19,6 +19,16 @@ Ikasi is an app for self-directed language learning. Far from traditional and ob
 - Navigation Compose
 - DataStore
 
+## 🕹️ Features
+- Today's activity log
+- Statistics and charts
+- Add your own vocabulary
+- Flashcards with your saved vocabulary
+- Random words from your vocabulary to use in the next writing activity
+- Add activities for past dates
+- Light Theme and Dark Theme
+- ...
+
 ## 📷 Screenshots
 <div class="inline-block">
 <img src="https://lh3.googleusercontent.com/pw/AP1GczPYiX231quL1W3GnWQfnXlL6Y3T9fV5sp5m7TP36jcIgrrdUmeq-4B4S3ex0nHh63BSxLfJWENtGpP93d4RU48Oo9FL-1IVpYDp1dvig__7x2pBHI8z7Ne1hrnsQj2T7iUiah3VlticHk3NlunwKPQP=w371-h803-s-no?authuser=0" width="300" height="650">
