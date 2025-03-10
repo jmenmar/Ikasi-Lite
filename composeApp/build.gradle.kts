@@ -51,6 +51,7 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.viewmodel)
             implementation(libs.androidx.lifecycle.runtime.compose)
+            // Navigation
             implementation(libs.navigation.compose)
             // Koin
             implementation(libs.koin.core)

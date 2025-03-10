@@ -21,7 +21,7 @@ interface WordDao {
     fun getWordsBy(filter: Int): Flow<List<WordEntity>>
 
     @Query("SELECT * FROM word ORDER BY RANDOM() LIMIT :length")
-    fun getRandomWords(length: Int): List<WordEntity>
+    suspend fun getRandomWords(length: Int): List<WordEntity>
 
     // UPDATE
     @Query("UPDATE word SET meaning = :meaning WHERE title LIKE :title")
