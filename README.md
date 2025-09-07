@@ -5,7 +5,7 @@ Ikasi is an app for self-directed language learning. Far from traditional and ob
 ![Static Badge](https://img.shields.io/badge/iOS-grey?logo=apple)
 
 ## 🪄 Tech stack
-- Kotlin Mutliplatform
+- Kotlin Multiplatform
 - Minimum Android SDK level 24
 - Jetpack Compose
 - MVVM Architecture
